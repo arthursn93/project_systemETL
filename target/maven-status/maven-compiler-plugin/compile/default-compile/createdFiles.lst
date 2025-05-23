@@ -1,0 +1,5 @@
+com\arthursn\systemetl\avro\Funcionario.class
+com\arthursn\systemetl\App.class
+com\arthursn\systemetl\util\KafkaUtils.class
+com\arthursn\systemetl\avro\Funcionario$Builder.class
+com\arthursn\systemetl\producer\MysqlToKafkaProducer.class
